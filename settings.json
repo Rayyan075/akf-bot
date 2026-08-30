@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "firelifesteal.aternos.me",
+    "ip": "FireLifesteal.aternos.me",
     "port": 27896,
     "version": "1.20.1",
     "try-creative": false
